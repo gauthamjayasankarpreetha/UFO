@@ -1,0 +1,251 @@
+datetime country     shape                                                    city
+1   10/10/1949 20:30      us  cylinder                                              san marcos
+2   10/10/1949 21:00    <NA>     light                                            lackland afb
+3   10/10/1955 17:00      gb    circle                                    chester (uk/england)
+4   10/10/1956 21:00      us    circle                                                    edna
+5   10/10/1960 20:00      us     light                                                 kaneohe
+6   10/10/1961 19:00      us    sphere                                                 bristol
+7   10/10/1965 21:00      gb    circle                                      penarth (uk/wales)
+8   10/10/1965 23:45      us      disk                                                 norwalk
+9   10/10/1966 20:00      us      disk                                               pell city
+10  10/10/1966 21:00      us      disk                                                live oak
+11  10/10/1968 13:00      us    circle                                               hawthorne
+12  10/10/1968 19:00      us  fireball                                                 brevard
+13  10/10/1970 16:00      us      disk                                                bellmore
+14  10/10/1970 19:00      us   unknown                                              manchester
+15  10/10/1971 21:00      us      oval                                               lexington
+16  10/10/1972 19:00      us    circle                                           harlan county
+17  10/10/1972 22:30      us      disk                                         west bloomfield
+18  10/10/1973 19:00      us      disk                                                 niantic
+19  10/10/1973 23:00    <NA>     light                                             bermuda nas
+20  10/10/1974 17:00    <NA>     light                                            willow beach
+21  10/10/1974 19:30      us     other                                                  hudson
+22  10/10/1974 21:30      gb      disk                                      cardiff (uk/wales)
+23  10/10/1974 23:00      us     light                                                  hudson
+24  10/10/1975 17:00      us     light                                        north charleston
+25  10/10/1976 20:30      us      oval                                               washougal
+26  10/10/1976 22:00      gb     cigar                           stoke mandeville (uk/england)
+27  10/10/1977 12:00      us     other                                             san antonio
+28  10/10/1977 22:00      us     light                                              louisville
+29  10/10/1978 02:00      us rectangle                                                  elmont
+30  10/10/1979 00:00      us   chevron                                            poughkeepsie
+31  10/10/1979 22:00    <NA>  triangle                                    saddle lake (canada)
+32  10/10/1979 22:00      us      oval                                               san diego
+33  10/10/1979 22:00      us   unknown                                                security
+34  10/10/1980 19:00      us    sphere                                                 houston
+35  10/10/1980 22:00      us   unknown                                                  dallas
+36  10/10/1980 23:30      us     light                                              manchester
+37  10/10/1982 07:00    <NA>      disk                                  gisborne (new zealand)
+38  10/10/1984 05:00      us    circle                                                 houston
+39  10/10/1984 12:00      us     other                                           traverse city
+40  10/10/1984 22:00      us formation                                            white plains
+41  10/10/1985 20:25      gb  triangle                                      leeds (uk/england)
+42  10/10/1986 20:00    <NA>   chevron                                          holmes/pawling
+43  10/10/1987 20:00    <NA>      disk                                 manilla (rr#1) (canada)
+44  10/10/1988 18:00      us  triangle                                               milwaukee
+45  10/10/1988 21:00      us   unknown                                          new gloucester
+46  10/10/1988 22:00      us     light                                                 boulder
+47  10/10/1988 22:45      us   unknown                                  seattle (ballard area)
+48  10/10/1989 00:00      us      disk                                               calabasas
+49  10/10/1989 21:00      us  triangle                                               centralia
+50  10/10/1989 21:00    <NA>  triangle                                                kranklin
+51  10/10/1990 20:00    <NA>   unknown                                          pense (canada)
+52  10/10/1990 21:00      us  triangle                                                 ashburn
+53  10/10/1991 22:00      us   unknown                                                  frisco
+54  10/10/1991 22:00      us  triangle                                              harrisburg
+55  10/10/1992 17:00      us formation                                             panama city
+56  10/10/1992 18:00      us   unknown                                                stafford
+57  10/10/1992 20:15      us     cigar                                                 seymour
+58  10/10/1992 22:00      us   unknown                                             weatherford
+59  10/10/1993 03:00    <NA>    sphere                                       zlatoust (russia)
+60  10/10/1993 22:00      us     light                                                  peoria
+61  10/10/1993 23:00      us     other                                                carthage
+62  10/10/1994 15:00    <NA>     cigar                                               mercedies
+63  10/10/1994 18:30      us rectangle                                             burnt hills
+64  10/10/1994 22:00      us     light                                              pinebergen
+65  10/10/1994 23:00      ca    sphere                 toronto (greater toronto area) (canada)
+66  10/10/1995 17:05    <NA>      <NA>                               puerto rico (puerto rico)
+67  10/10/1995 19:45      us      <NA>                                               milwaukee
+68  10/10/1995 22:40      us      <NA>                                                 oakland
+69  10/10/1996 03:20      us  triangle                                            higginsville
+70  10/10/1996 20:00    <NA>     light                      lake macquarie (nsw&#44 australia)
+71  10/10/1996 22:00      us     light                                              charleston
+72  10/10/1996 22:30      us  cylinder                                           monroe county
+73  10/10/1997 16:00      us     delta                                            connersville
+74  10/10/1997 17:00      us    sphere                                                    mesa
+75  10/10/1997 20:00      us  triangle                                                 bonaire
+76  10/10/1997 21:00      us     other                                                  austin
+77  10/10/1998 02:00    <NA>      disk                                           turin (italy)
+78  10/10/1998 02:30      us  changing                                               hollywood
+79  10/10/1998 03:30      us  fireball                                    phoenix (north part)
+80  10/10/1998 13:15      us  cylinder                                                   elgin
+81  10/10/1998 17:30      us     cigar                                               las vegas
+82  10/10/1998 17:30      us    circle                                               las vegas
+83  10/10/1998 20:30    <NA>  triangle                                    nyc/westchester area
+84  10/10/1998 20:30      us  triangle spokane (about 30 miles sw of&#44i-90&#44 maybe mm 254)
+85  10/10/1998 20:50      us     light                                             mooresville
+86  10/10/1998 22:30      ca       egg                                  st. john&#39s (canada)
+87  10/10/1998 23:50      us  fireball                                                  delano
+88  10/10/1999 00:01      us  changing                                                martinez
+89  10/10/1999 03:00    <NA>       egg                            st. agnes de dundee (canada)
+90  10/10/1999 04:00      us   unknown                                             kansas city
+91  10/10/1999 06:00      us     other                                                  dallas
+92  10/10/1999 11:00      us  fireball                                               san diego
+93  10/10/1999 12:40      us    sphere                                               kennewick
+94  10/10/1999 20:35      us    circle                                                 hayward
+95  10/10/1999 21:00      us     light                                   ashland (at our home)
+96  10/10/1999 21:00      us     light                                                  rachel
+97  10/10/1999 21:30      us    sphere                                                humphrey
+98  10/10/1999 22:00    <NA>     flash                                     dorset (uk/england)
+99  10/10/1999 22:30    <NA>  triangle                                casey key (north end of)
+100 10/10/1999 22:30      us   chevron                                                   elgin
+101 10/10/1999 23:45      us      oval                                                lewiston
+102 10/10/2000 03:00      us      oval                                              perryville
+103 10/10/2000 03:45    <NA>     flash             carnival cruise ship (paradise) (caribbean)
+104 10/10/2000 06:15      us     other                                           boynton beach
+105 10/10/2000 07:30      ca  cylinder                                       victoria (canada)
+106 10/10/2000 16:00    <NA>  triangle                                                  jueanu
+107 10/10/2000 20:20    <NA>      oval                           valley park area of st. louis
+108 10/10/2000 20:30      us     light                                               brinktown
+109 10/10/2000 21:30      us     light                                                florence
+110 10/10/2000 21:30      us   unknown                                          seattle (west)
+111 10/10/2000 22:00      us   diamond                                            port orchard
+112 10/10/2001 03:00      us  triangle                                           rockwell city
+113 10/10/2001 04:33      au formation                              sydney (nsw&#44 australia)
+114 10/10/2001 20:10      ca     other                                      vancouver (canada)
+115 10/10/2001 20:35      us    circle                                                 hayward
+116 10/10/2001 21:15      us rectangle                                                 ottumwa
+117 10/10/2001 21:30      us  changing                                                  fresno
+118 10/10/2001 22:00      us  triangle                                                 phoenix
+119 10/10/2001 23:00      us  triangle                                          virginia beach
+120 10/10/2002 00:01      us     flash                                                 hayward
+121 10/10/2002 02:00      us   unknown                                               philomath
+122 10/10/2002 04:00      au    circle              adelaide (pt. wakefield) (south australia)
+123 10/10/2002 06:00      us    sphere                                                 seattle
+124 10/10/2002 19:45      ca   unknown                                       victoria (canada)
+125 10/10/2002 20:30      us     other                                              cincinnati
+126 10/10/2002 21:00      us    circle                                                portland
+127 10/10/2002 22:00    <NA>       egg                                                 bahamas
+128 10/10/2002 22:00      au     cross                           burnie (tasmania) (australia)
+129 10/10/2003 09:00    <NA>     light                                             new buffulo
+130 10/10/2003 12:00      us      oval                                                alhambra
+131 10/10/2003 18:00      us    sphere                                            indianapolis
+132 10/10/2003 19:15      us     other                                             centreville
+133 10/10/2003 20:05      us     light                                              grand view
+134 10/10/2003 20:25      us      oval                                              temperance
+135 10/10/2003 21:10      us formation                                          crescent beach
+136 10/10/2003 22:00      us     light                                             albuquerque
+137 10/10/2003 23:00    <NA>   unknown                  bickerton (near wetherby) (uk/england)
+138 10/10/2003 23:25      us    sphere                                                 gleason
+139 10/10/2004 02:50      us  triangle                                                  mahwah
+140 10/10/2004 03:30    <NA>     other                                  worthington st. forest
+141 10/10/2004 03:50      ca  changing                             portage la prairie (canada)
+142 10/10/2004 04:18      us    sphere                                             terre haute
+143 10/10/2004 08:30      us      oval                                            indianapolis
+144 10/10/2004 09:45      ca   unknown                                          nobel (canada)
+145 10/10/2004 14:00      us    circle                                              morgantown
+146 10/10/2004 15:00      us   unknown                                                berkeley
+147 10/10/2004 15:00      us    sphere                                             rock island
+148 10/10/2004 15:20    <NA>      oval                                   kedainiai (lithuania)
+149 10/10/2004 19:00    <NA> formation                                              chateauqua
+150 10/10/2004 19:00      us    circle                                                  ripley
+151 10/10/2004 21:00      us     flash                                               faribault
+152 10/10/2004 21:00      us     light                                               mansfield
+153 10/10/2004 22:00      us     light                                                columbia
+154 10/10/2004 23:30      us    sphere                                                 gleason
+155 10/10/2005 07:40      us     other                                                 seattle
+156 10/10/2005 09:00      us     other                                         apache junction
+157 10/10/2005 09:30      us      oval                                       north miami beach
+158 10/10/2005 11:30      us      <NA>                                               edgewater
+159 10/10/2005 14:45      us       egg                                             los angeles
+160 10/10/2005 20:00      us  triangle                                                 loretto
+161 10/10/2005 20:00      gb formation                                      newtown (uk/wales)
+162 10/10/2005 21:00      us   unknown                                               lewisburg
+163 10/10/2005 21:30      us     other                                       north miami beach
+164 10/10/2005 22:08      us     light                                          east wenatchee
+165 10/10/2005 23:00      us     light                                          hendersonville
+166 10/10/2005 23:07      us      disk                                                brainerd
+167 10/10/2005 24:00      us      disk                                                franklin
+168 10/10/2006 01:00      us   diamond                                              pennington
+169 10/10/2006 05:00      us  triangle                                           san francisco
+170 10/10/2006 12:37      us   unknown                                             blairsville
+171 10/10/2006 16:00      us     light                                                savannah
+172 10/10/2006 16:00      us  triangle                                              waynesboro
+173 10/10/2006 19:00    <NA>  fireball                                                  unsure
+174 10/10/2006 20:00      us     other                                                    bray
+175 10/10/2006 21:47      gb formation                      plymouth (devonshire) (uk/england)
+176 10/10/2006 22:40      us     light                                                waycross
+177 10/10/2006 22:50      us      disk                                               wolfforth
+178 10/10/2006 23:00      us   unknown                                               lyndhurst
+179 10/10/2006 23:55      us  triangle                                                    knik
+180 10/10/2007 01:00      us     light                                                 lebanon
+181 10/10/2007 01:00      us  changing                                             stockbridge
+182 10/10/2007 04:00      us  changing                                                  denver
+183 10/10/2007 04:30      us    sphere                                            jacksonville
+184 10/10/2007 05:00      us    circle                                             bakersfield
+185 10/10/2007 06:00      us      oval                                                   indio
+186 10/10/2007 13:00      us  triangle                                                   owego
+187 10/10/2007 18:33      us    circle                                             downingtown
+188 10/10/2007 19:00      us     flash                                                  austin
+189 10/10/2007 20:10      us    sphere                                 starrsville (covington)
+190 10/10/2007 20:24    <NA>  fireball                                 west palm beach florida
+191 10/10/2007 20:30      us   unknown                                                 conyers
+192 10/10/2007 20:55      us   unknown                                              vero beach
+193 10/10/2007 21:00      us      oval                                            jensen beach
+194 10/10/2007 21:43      us formation                                                 houston
+195 10/10/2007 22:00      us     light                                                  duluth
+196 10/10/2007 22:00      us    circle                                                 fleming
+197 10/10/2007 22:00      us   unknown                                              grove city
+198 10/10/2007 22:00      us     other                                             van alstyne
+199 10/10/2007 23:05      us  triangle                                              northglenn
+200 10/10/2007 23:20    <NA>     light                                          stord (norway)
+201 10/10/2008 02:00      ca     other                                         london (canada)
+202 10/10/2008 02:00      us     light                                            north branch
+203 10/10/2008 02:00      us    circle                                            slingerlands
+204 10/10/2008 04:00      us      disk                                                  carlin
+205 10/10/2008 04:50      us formation                                              evansville
+206 10/10/2008 06:00      us      oval                                                  albany
+207 10/10/2008 09:30      us     flash                                     amarillo (hwy. 140)
+208 10/10/2008 10:22      us  triangle                                                 fremont
+209 10/10/2008 18:00      us  triangle                                                    yuma
+210 10/10/2008 19:00      us     light                                              south bend
+211 10/10/2008 20:00      us formation                                             la crescent
+212 10/10/2008 20:00    <NA>   unknown                                           moon township
+213 10/10/2008 20:00      us      oval                                            philadelphia
+214 10/10/2008 20:00      us     light                                                 seattle
+215 10/10/2008 20:40      us     light                                                  pueblo
+216 10/10/2008 21:30      us      oval                                              cincinnati
+217 10/10/2008 22:00      us      disk                                               san diego
+218 10/10/2008 22:30      us    circle                                                 madison
+219 10/10/2008 23:15      us    sphere                                               coldwater
+220 10/10/2009 00:00    <NA> rectangle                                               greenland
+221 10/10/2009 12:00      us       egg                                           crested butte
+222 10/10/2009 12:42      us   unknown                                                   tulsa
+223 10/10/2009 16:24      us   unknown                                                   eagar
+224 10/10/2009 19:30      us   unknown                                                 suffolk
+225 10/10/2009 20:30      us     light                                                 anaheim
+226 10/10/2009 20:45      us     light                                              wilmington
+227 10/10/2009 21:00      us      disk                                                leesburg
+228 10/10/2009 22:30      us     other                                       thief river falls
+229 10/10/2009 23:00      us  changing                                           michigan city
+230 10/10/2009 23:23      us     light                                               cupertino
+231 10/10/2010 01:00      us     light                                            orchard park
+232 10/10/2010 02:30      us    circle                                              harrisburg
+233 10/10/2010 03:00      us    circle                                                  euclid
+234 10/10/2010 08:30      us formation                                                   starr
+235 10/10/2010 10:45      us     flash                                              leominster
+236 10/10/2010 12:00      us     light                                               greenwich
+237 10/10/2010 13:00      us     light                                        north charleston
+238 10/10/2010 15:00    <NA>  triangle                                   san francisco airport
+239 10/10/2010 16:30      us     cigar                                             springfield
+240 10/10/2010 17:10      us     light                                              bridgeport
+241 10/10/2010 18:30      us  triangle                                               clackamas
+242 10/10/2010 20:00      us      oval                                              san angelo
+243 10/10/2010 20:20      us  fireball                                                 windsor
+244 10/10/2010 20:45      us  cylinder                                                sterling
+245 10/10/2010 21:00      us     other                                                 everett
+246 10/10/2010 21:00      us      disk                                              kykotsmovi
+247 10/10/2010 21:30      us    circle                                                  albany
+248 10/10/2010 22:30      us       egg                                            garden grove
+249 10/10/2010 23:00      us  changing                                                   miami
+250 10/10/2010 23:30      us      disk     

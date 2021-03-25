@@ -1,0 +1,366 @@
+datetime                                                    city state country     shape DurationSeconds
+1  10/10/1949 20:30                                              san marcos    tx      us  cylinder            2700
+2  10/10/1949 21:00                                            lackland afb    tx    <NA>     light            7200
+3  10/10/1955 17:00                                    chester (uk/england)  <NA>      gb    circle              20
+4  10/10/1956 21:00                                                    edna    tx      us    circle              20
+5  10/10/1960 20:00                                                 kaneohe    hi      us     light             900
+6  10/10/1961 19:00                                                 bristol    tn      us    sphere             300
+7  10/10/1965 21:00                                      penarth (uk/wales)  <NA>      gb    circle             180
+8  10/10/1965 23:45                                                 norwalk    ct      us      disk            1200
+9  10/10/1966 20:00                                               pell city    al      us      disk             180
+10 10/10/1966 21:00                                                live oak    fl      us      disk             120
+11 10/10/1968 13:00                                               hawthorne    ca      us    circle             300
+12 10/10/1968 19:00                                                 brevard    nc      us  fireball             180
+13 10/10/1970 16:00                                                bellmore    ny      us      disk            1800
+14 10/10/1970 19:00                                              manchester    ky      us   unknown             180
+15 10/10/1971 21:00                                               lexington    nc      us      oval              30
+16 10/10/1972 19:00                                           harlan county    ky      us    circle            1200
+17 10/10/1972 22:30                                         west bloomfield    mi      us      disk             120
+18 10/10/1973 19:00                                                 niantic    ct      us      disk            1800
+19 10/10/1973 23:00                                             bermuda nas  <NA>    <NA>     light              20
+20 10/10/1974 17:00                                            willow beach    az    <NA>     light             120
+21 10/10/1974 19:30                                                  hudson    ma      us     other            2700
+22 10/10/1974 21:30                                      cardiff (uk/wales)  <NA>      gb      disk            1200
+23 10/10/1974 23:00                                                  hudson    ks      us     light            1200
+24 10/10/1975 17:00                                        north charleston    sc      us     light             360
+25 10/10/1976 20:30                                               washougal    wa      us      oval              60
+26 10/10/1976 22:00                           stoke mandeville (uk/england)  <NA>      gb     cigar               3
+27 10/10/1977 12:00                                             san antonio    tx      us     other              30
+28 10/10/1977 22:00                                              louisville    ky      us     light              30
+29 10/10/1978 02:00                                                  elmont    ny      us rectangle             300
+30 10/10/1979 00:00                                            poughkeepsie    ny      us   chevron             900
+31 10/10/1979 22:00                                    saddle lake (canada)    ab    <NA>  triangle             270
+32 10/10/1979 22:00                                               san diego    ca      us      oval             180
+33 10/10/1979 22:00                                                security    co      us   unknown            1800
+34 10/10/1980 19:00                                                 houston    tx      us    sphere             180
+35 10/10/1980 22:00                                                  dallas    tx      us   unknown             300
+36 10/10/1980 23:30                                              manchester    nh      us     light             300
+37 10/10/1982 07:00                                  gisborne (new zealand)  <NA>    <NA>      disk             120
+38 10/10/1984 05:00                                                 houston    tx      us    circle              60
+39 10/10/1984 12:00                                           traverse city    mi      us     other             120
+40 10/10/1984 22:00                                            white plains    ny      us formation              20
+41 10/10/1985 20:25                                      leeds (uk/england)  <NA>      gb  triangle             600
+42 10/10/1986 20:00                                          holmes/pawling    ny    <NA>   chevron             180
+43 10/10/1987 20:00                                 manilla (rr#1) (canada)    on    <NA>      disk             600
+44 10/10/1988 18:00                                               milwaukee    wi      us  triangle             600
+45 10/10/1988 21:00                                          new gloucester    me      us   unknown             120
+46 10/10/1988 22:00                                                 boulder    co      us     light              60
+47 10/10/1988 22:45                                  seattle (ballard area)    wa      us   unknown               2
+48 10/10/1989 00:00                                               calabasas    ca      us      disk             300
+49 10/10/1989 21:00                                               centralia    wa      us  triangle              60
+50 10/10/1989 21:00                                                kranklin    ky    <NA>  triangle             180
+51 10/10/1990 20:00                                          pense (canada)    sa    <NA>   unknown             180
+52 10/10/1990 21:00                                                 ashburn    ga      us  triangle             120
+53 10/10/1991 22:00                                                  frisco    nc      us   unknown            1800
+54 10/10/1991 22:00                                              harrisburg    pa      us  triangle             600
+55 10/10/1992 17:00                                             panama city    fl      us formation            3600
+56 10/10/1992 18:00                                                stafford    tx      us   unknown              10
+57 10/10/1992 20:15                                                 seymour    tn      us     cigar              60
+58 10/10/1992 22:00                                             weatherford    tx      us   unknown              30
+59 10/10/1993 03:00                                       zlatoust (russia)  <NA>    <NA>    sphere            1200
+60 10/10/1993 22:00                                                  peoria    il      us     light               8
+61 10/10/1993 23:00                                                carthage    tn      us     other              60
+62 10/10/1994 15:00                                               mercedies    tx    <NA>     cigar            3600
+63 10/10/1994 18:30                                             burnt hills    ny      us rectangle             120
+64 10/10/1994 22:00                                              pinebergen    ar      us     light               5
+65 10/10/1994 23:00                 toronto (greater toronto area) (canada)    on      ca    sphere            3600
+66 10/10/1995 17:05                               puerto rico (puerto rico)    pr    <NA>      <NA>               0
+67 10/10/1995 19:45                                               milwaukee    wi      us      <NA>             120
+68 10/10/1995 22:40                                                 oakland    ca      us      <NA>              60
+69 10/10/1996 03:20                                            higginsville    mo      us  triangle               3
+70 10/10/1996 20:00                      lake macquarie (nsw&#44 australia)  <NA>    <NA>     light             300
+71 10/10/1996 22:00                                              charleston    sc      us     light             300
+72 10/10/1996 22:30                                           monroe county    oh      us  cylinder              60
+73 10/10/1997 16:00                                            connersville    in      us     delta           14400
+74 10/10/1997 17:00                                                    mesa    az      us    sphere              30
+75 10/10/1997 20:00                                                 bonaire    ga      us  triangle             300
+76 10/10/1997 21:00                                                  austin    mn      us     other            3600
+77 10/10/1998 02:00                                           turin (italy)  <NA>    <NA>      disk              15
+78 10/10/1998 02:30                                               hollywood    ca      us  changing             300
+79 10/10/1998 03:30                                    phoenix (north part)    az      us  fireball              15
+80 10/10/1998 13:15                                                   elgin    il      us  cylinder            1800
+81 10/10/1998 17:30                                               las vegas    nv      us     cigar             600
+82 10/10/1998 17:30                                               las vegas    nv      us    circle            2700
+83 10/10/1998 20:30                                    nyc/westchester area    ny    <NA>  triangle              60
+84 10/10/1998 20:30 spokane (about 30 miles sw of&#44i-90&#44 maybe mm 254)    wa      us  triangle             600
+85 10/10/1998 20:50                                             mooresville    nc      us     light               2
+86 10/10/1998 22:30                                  st. john&#39s (canada)    nf      ca       egg            7200
+87 10/10/1998 23:50                                                  delano    tn      us  fireball              15
+88 10/10/1999 00:01                                                martinez    ca      us  changing            3600
+89 10/10/1999 03:00                            st. agnes de dundee (canada)    pq    <NA>       egg            5400
+90 10/10/1999 04:00                                             kansas city    ks      us   unknown             600
+     DurationHoursMin
+1          45 minutes
+2             1-2 hrs
+3          20 seconds
+4            1/2 hour
+5          15 minutes
+6           5 minutes
+7        about 3 mins
+8          20 minutes
+9          3  minutes
+10    several minutes
+11             5 min.
+12          3 minutes
+13            30 min.
+14          3 minutes
+15         30 seconds
+16          20minutes
+17          2 minutes
+18          20-30 min
+19            20 sec.
+20              2 min
+21         45 minutes
+22         20 minutes
+23          one hour?
+24        5-6 minutes
+25           1 minute
+26          3 seconds
+27         30 seconds
+28 approx: 30 seconds
+29               5min
+30         15 minutes
+31   4.5 or more min.
+32          3 minutes
+33            30mins.
+34              3 min
+35          5 minutes
+36         3 to 5 min
+37               2min
+38           1 minute
+39     couple minutes
+40      15-20 seconds
+41              10min
+42          3 minutes
+43            10/mins
+44         10 minutes
+45        few minutes
+46           1 minute
+47             2 sec.
+48       approx 5 min
+49           1 minute
+50               3min
+51            1/2 hr.
+52          2 minutes
+53         30 minutes
+54         10 minutes
+55          1 hour(?)
+56         10 seconds
+57          1min. 39s
+58         30 seconds
+59         20 minutes
+60          8 seconds
+61    less than 1 min
+62             1 hour
+63          2 minutes
+64          5 seconds
+65            ~1 hour
+66               <NA>
+67             2 min.
+68           1 minute
+69               3sec
+70              5 min
+71              5 min
+72           1 minute
+73            4 hours
+74         30 seconds
+75         <5 minutes
+76             1-hour
+77             15 sec
+78          5 minutes
+79       10 to 15 sec
+80         30 +/- min
+81         10 minutes
+82             45min.
+83            < 1 min
+84         10 minutes
+85          2 seconds
+86            2 hours
+87         15 seconds
+88             1 hour
+89            90 min.
+90          5-10 min.
+                                                                                                                                                     comments
+1                     This event took place in early fall around 1949-50. It occurred after a Boy Scout meeting in the Baptist Church. The Baptist Church sit
+2                                                             1949 Lackland AFB&#44 TX.  Lights racing across the sky &amp; making 90 degree turns on a dime.
+3                                                                                                         Green/Orange circular disc over Chester&#44 England
+4                  My older brother and twin sister were leaving the only Edna theater at about 9 PM&#44...we had our bikes and I took a different route home
+5  AS a Marine 1st Lt. flying an FJ4B fighter/attack aircraft on a solo night exercise&#44 I was at 50&#44000&#39 in a &quot;clean&quot; aircraft (no ordinan
+6                  My father is now 89 my brother 52 the girl with us now 51 myself 49 and the other fellow which worked with my father if he&#39s still livi
+7                          penarth uk  circle  3mins  stayed 30ft above me for 3 mins slowly moved of and then with the blink of the eye the speed was unreal
+8                                           A bright orange color changing to reddish color disk/saucer was observed hovering above power transmission lines.
+9                                     Strobe Lighted disk shape object observed close&#44 at low speeds&#44 and low altitude in Oct 1966 in Pell City Alabama
+10                                                           Saucer zaps energy from powerline as my pregnant mother receives mental signals not to pass info
+11                                                            ROUND &#44 ORANGE &#44 WITH WHAT I WOULD SAY WAS POLISHED METAL OF SOME KIND AROUND THE EDGES .
+12                                                              silent red /orange mass of energy floated by three of us in western North Carolina in the 60s
+13                                                                                                                   silver disc seen by family and neighbors
+14                                                                               Slow moving&#44 silent craft accelerated at an unbelievable angle and speed.
+15                                                                                         green oval shaped light over my local church&#44power lines down..
+16            On october 10&#44 1972 myself&#44my 5yrs.daughter&#442 neices and 2 nephews were playing tag in the back yard .When we looked over on the ridge
+17                              The UFO was so close&#44 my battery in the car went to zero amps&#44 stalling the engine&#44 turning off my lights and radio.
+18                    Oh&#44 what a night &#33  Two (2) saucer-shaped&#44 glowing green objects and one (1) brilliantly glowing sphere gliding over the lake.
+19                                                                                saw fast moving blip on the radar scope thin went outside and saw it again.
+20                                                                          The object was a brillant white light standing out against the bright arizona sky
+21                    Not sure of the eact month or year of this sighting but it was in the fall of 74 or 75. Was walking home around dusk and saw a bright l
+22                 back in 1974 I was 19 at the time and  lived in a suburb of Cardiff Wales UK called Ely&#44 and in the distance there was a wood called Ca
+23                                                                                                                                       The light chased us.
+24                                                                                             Several Flashing UFO lights over Charleston Naval Base in S.C.
+25                                                                                                   Three extremely large lights hanging above nearby trees.
+26                                                                                                                      White object over Buckinghamshire UK.
+27                    i was about six or seven and my family and me were sitting next to a window at home eating when a type of dark ball hit the screen wind
+28                                                                                                 HBCCUFO CANADIAN REPORT:  Pilot Sighting Of Unusual Light.
+29                                                                                                 A memory I will never forget that happened meny years ago.
+30                  1/4 moon-like&#44  its &#39chord&#39 or flat side parallel to horizon&#44  bright orange-red glow&#44  completely silent&#44 no features.
+31                                                           Lights far above&#44  that glance; then flee from the celestrialhavens&#44 only to appear again.
+32                                                                                                                       My 2nd UFO sighting&#44 October 1979
+33                 very low clouds all different colors&#44search lights were seen shining down out of the clouds on the houses and streets. this event was s
+34                                           Sphere&#44 No lights&#44  moving through neighborhoods above tree tops&#44 over busy streets in Houston in 1980.
+35                                                                                                         Strange shape shifting craft of pure light energy.
+36                                                                                                               A red glowing sphere stopped and watched me.
+37                                                                                                                gisborne nz 1982 wainui beach to sponge bay
+38                                                                                                                                   2 experience with unkown
+39                                                                                                                translucent football seen over city airport
+40                    Saw a hugh object in sky with lights intermittently placed not making any noise traveling north in the night sky.It had no real identif
+41                                                                               three light in the sky that led to a big black silent triangle shaped craft.
+42                                                  Football Field Sized Chevron with bright white lights on front&#44 moving slowly with absolutely no sound
+43              We could clearly see the craft and observed in detail it&#39s structure&#44no sound was made by it and the lights that were flashing were not
+44                                             A silent black triangular object with no lights moved over us as we walked our dog across a school playground.
+45                                                                                                           I&#39m still afraid to look at the sky at night.
+46                                                        Three Stars Begin to Move Randomly&#44 Stop&#44 Change Direction&#44 Move Again&#44 And Then Vanish
+47                                                         Two adult witnesses are stunned by the sound of an object that streaks above the home they are in.
+48                                                                                                                 Unidentified object on Mulholland Highway.
+49                                        A huge triangularly shaped silent object that blotted out 25 degrees of the sky&#44 lighted by four glowing points.
+50                                                                                                                Triangle seen in franklin Ky - october 1989
+51                                                                         i saw something one rainy night&#44 and i&#39ll never forget it as long as i live.
+52                                                                                                         Translucent Craft that makes No Sound While Moving
+53                    A friend and myself were standing on the shore of the Pamlico sound as we observed 4 objects moving in up and down motions for about 30
+54                                                                                                     We observed 3 triangular shaped high speed objects&#33
+55                        During a road trip to Panama City a friend and I witnessed a pair of luminous light formations appear and dissappear over the Gulf.
+56                           A man emerges from a beam of light that shines on a grassy field at night and he runs towards the Texas Instruments parking lot.
+57                                                                               Stationary Elongated UFO 200ft above vacant field with city lights on bottom
+58                                                             Black or dark grey.  Too big&#44 too low&#44 too slow&#44 too quiet&#44 for a normal aircraft.
+59                    I woke up at night and looked out the window near my bed. There was a huge sphere of shining light in front of our nine floor apartment
+60             Light over Peoria&#44 IL that moves slowly&#44 stops in mid-air&#44 hovers&#44 changes colors&#44 shoots in opposite direction and disappears.
+61                                                                                                                         1 object with green and red lights
+62                                                                                             ufo chased by fighter jet over Rio Grande Valley. Seen on news
+63                                                    Giant rectangular craft (resembling an upside-down aircraft carrier) over highway near Saratoga&#44 NY.
+64                                                      Round&#44 bright&#44 low flying object silently speeds West of Arkansas town at 11:30pm&#44 10/10/94.
+65                                                                                                                                         Large rusty sphere
+66                      Woman calls regarding fiance who is having peculiar &quot;flash back&quot; recall of alien type creatures.  Directed to investigator.
+67        Man  on Hwy 43 SW of Milwaukee sees large&#44 bright blue light streak by his car&#44 descend&#44 turn&#44 cross road ahead&#44 strobe. Bizarre&#33
+68                  Woman repts.  bright light in NW sky&#44 suddenly approaches her&#44 flies slowly overhead.  Swept wings&#44 2 blurry lights either side.
+69                                                                                  illuminated triangular craft&#44 flying at high speed from South to North
+70                                                                                                     RED LIGHT WITH OTHER RED FLASHING LIGHT&#44 ONE OBJECT
+71                                                                                                                    Flashing object above Charleston&#44 SC
+72                                                                                                                   Looked like it went through the hillside
+73                                            3 differants types &#44 cluster &#44delta &#44 and one in a 3 pointed star design . followed it for six miles .
+74                                                       A small dark purple quad-thruster craft hovering 200-300 feet in the sky. 500 Lights On Object0: Yes
+75                                                                                                              Triangular Object Sighted at Very Close Range
+76                    i was traveling northbound on state highway 105 approximately 8 miles south of Austin MN when an object came down directly above my car
+77                  We were doing a patrol during the night&#44me and my friend were on guard duty in a military camp wich was a big field in the middle of a
+78                     I was standing outside on Sunset Blvd. at Vine and looked straight up which I normally do not do. I saw three bright white lights in a
+79                                                              bright green moving north to north east. it was bright green and kinda clear. quite fast too.
+80                    While looking up at sky I noticed a bright light hovering above the sky. then I noticed a jet airliner traveling in the same area and I
+81                                                                                         White&#44 vertical cigar shape floating around in the eastern sky.
+82                                                                                                                      Ufo sighting in las vegas near Area51
+83                                                                                                                                            Lights over NYC
+84                     Dark boomerange object seen for ten minutes hovering over the freeway with a bright light out the front that lit up the fields. No jet
+85                                                         Star gazing in back yard with telescope and binos. Saw shooting star and an oblong shape of light.
+86                     Started off as 3 points of intense yellow light in triangle formation - then grew larger - it becage a single egg shape - VERY bright.
+87                    I came home from work one night and I seen a bright fire like ball go across the top ofthe mountain and it was going fast then it stopp
+88              Bright objects&#44 red and green flashing lights (and a diffuse white light off to one side of the larger of the two objects)&#44 about 30 de
+89                                   early morning bright object egg shape fully colorder chaging colors as it turn as it was going it change to white colors
+90                                                                                                                                   Orange object over city.
+   DatePosted   latitude   longitude
+1  2020-04-27 29.8830556  -97.941111
+2  2020-12-16   29.38421  -98.581082
+3  2020-01-21       53.2   -2.916667
+4  2020-01-17 28.9783333  -96.645833
+5  2020-01-22 21.4180556 -157.803611
+6  2020-04-27 36.5950000  -82.188889
+7  2020-02-14  51.434722   -3.180000
+8  2019-10-02 41.1175000  -73.408333
+9  2020-03-19 33.5861111  -86.286111
+10 2020-05-11 30.2947222  -82.984167
+11 2020-10-31 33.9163889 -118.351667
+12 2020-06-12 35.2333333  -82.734444
+13 2020-05-11 40.6686111  -73.527500
+14 2020-02-14 37.1536111  -83.761944
+15 2020-02-14 35.8238889  -80.253611
+16 2020-09-15 36.8430556  -83.321944
+17 2020-08-14 42.5377778  -83.233056
+18 2020-09-24 41.3252778  -72.193611
+19 2020-01-11  32.364167  -64.678611
+20 2020-02-18          0    0.000000
+21 2019-08-10 42.3916667  -71.566667
+22 2020-02-01       51.5   -3.200000
+23 2020-07-25 38.1055556  -98.659722
+24 2020-02-14 32.8544444  -79.975000
+25 2020-02-07 45.5827778 -122.352222
+26 2020-12-12  51.783333   -0.783333
+27 2020-02-24 29.4238889  -98.493333
+28 2020-03-17 38.2541667  -85.759444
+29 2020-02-01 40.7008333  -73.713333
+30 2020-04-16 41.7002778  -73.921389
+31 2020-01-19  53.970571 -111.689885
+32 2020-08-05 32.7152778 -117.156389
+33 2019-01-28 38.7583333 -104.742500
+34 2020-04-16 29.7630556  -95.363056
+35 2020-10-28 32.7833333  -96.800000
+36 2020-11-21 42.9955556  -71.455278
+37 2020-01-11 -38.662334  178.017649
+38 2020-04-18 29.7630556  -95.363056
+39 2020-10-07 44.7630556  -85.620556
+40 2019-08-10 41.0338889  -73.763333
+41 2020-03-04       53.8   -1.583333
+42 2020-10-08  41.523427  -73.646795
+43 2020-08-05          0    0.000000
+44 2020-08-07 43.0388889  -87.906389
+45 2020-01-10 43.9627778  -70.283056
+46 2020-07-16 40.0150000 -105.270000
+47 2020-04-27 47.6063889 -122.330833
+48 2020-12-14 34.1577778 -118.637500
+49 2020-04-27 46.7163889 -122.953056
+50 2020-05-11  36.722263  -86.577218
+51 2020-10-12          0    0.000000
+52 2020-10-08 31.7058333  -83.653333
+53 2019-01-28 35.2350000  -75.628889
+54 2020-05-09 40.2736111  -76.884722
+55 2019-01-28 30.1586111  -85.660278
+56 2020-04-18 29.6158333  -95.557500
+57 2020-10-31 35.8905556  -83.724722
+58 2020-09-02 32.7591667  -97.796944
+59 2020-12-14  55.183333   59.650000
+60 2020-10-11 40.6936111  -89.588889
+61 2020-03-21 36.2522222  -85.951667
+62 2020-12-12  26.149798  -97.913611
+63 2020-10-23 42.9097222  -73.895556
+64 2020-02-18 34.1027778  -91.992222
+65 2020-07-03  43.666667  -79.416667
+66 2019-11-02  18.220833  -66.590149
+67 2019-11-02 43.0388889  -87.906389
+68 2019-11-02 37.8044444 -122.269722
+69 2020-02-16 39.0725000  -93.716944
+70 2019-05-24 -33.093373  151.588982
+71 2020-11-26 32.7763889  -79.931111
+72 2020-07-08 39.4402778  -84.362222
+73 2019-01-28 39.6411111  -85.141111
+74 2020-02-14 33.4222222 -111.821944
+75 2020-02-01 32.5436111  -83.596111
+76 2019-01-28 43.6666667  -92.974444
+77 2020-01-19          0    0.000000
+78 2019-11-01 34.0983333 -118.325833
+79 2019-02-16 33.4483333 -112.073333
+80 2019-11-01 42.0372222  -88.281111
+81 2019-11-01 36.1750000 -115.136389
+82 2019-08-30 36.1750000 -115.136389
+83 2020-10-30  40.935998  -73.901708
+84 2020-08-05 47.6588889 -117.425000
+85 2019-11-01 35.5847222  -80.810278
+86 2020-12-02      47.55  -52.666667
+87 2020-03-21 35.2650000  -84.553333
+88 2019-10-19 38.0194444 -122.133056
+89 2020-12-02          0    0.000000
+90 2019-10-19 39.1141667  -94.627222
+ [ reached 'max' / getOption("max.print") -- omitted 88981 rows ]
+> 
